@@ -1,7 +1,6 @@
 {
   "name": "la-boite-a-marius",
-  "version": "0.1.1",
-  "private": true,
+  "version": "0.1.2",
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
